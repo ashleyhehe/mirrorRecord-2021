@@ -68,7 +68,7 @@ export function Example({ className, title = 'Example' }: ExampleProps) {
       <main className={styles.main} />
       <footer className={styles.footer}>
         <a href="https://github.com/MagicCube" target="_blank" rel="noreferrer">
-          Created by Henry Li.
+          Created by Chien he.
         </a>
       </footer>
     </div>
