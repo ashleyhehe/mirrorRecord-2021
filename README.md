@@ -41,7 +41,7 @@ yarn
 
 ## Develop
 
-Start a local development server for developing, debugging and testing.
+Start a local Webpack development server for developing, debugging and testing.
 
 ```sh
 yarn dev
@@ -54,23 +54,13 @@ yarn dev
 Build for production.
 
 ```sh
+yarn build:webpack
+```
+
+Build for production with ES modules and TypeScript declarations.
+
+```sh
 yarn build
-```
-
-Preview the production build.
-
-```sh
-yarn preview
-```
-
-```sh
-yarn preview
-```
-
-Generate ES modules and TypeScript declarations.
-
-```sh
-yarn build:es
 ```
 
 Build for GitHub pages.
