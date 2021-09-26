@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-2021",
+  "name": "mirror_record-2021", 
   "version": "1.0.0",
   "description": "Yet another boilerplate for TypeScript and React developers.",
   "main": "dist/index.js",
